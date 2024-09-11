@@ -3,7 +3,6 @@ Hi, I’m Aamir Shahzad (@AamirShahzad-01)
 🌱 I’m currently working on AI agents, chatbot development, and integration using platforms like Botpress, FastAPI, and GPT .
 💞️ I’m looking to collaborate on AI-powered solutions, generative AI-based projects, and innovative chatbot applications.
 📫 How to reach me: aamirShazad0011@gmail.com
-😄 Pronouns: He/Him
 ⚡ Fun fact: I’m passionate about automation and building AI systems that make life easier for businesses.
 
 <!---
